@@ -1,2 +1,2 @@
 # Hello there, I am DIPEN MAHARJAN
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+[![Dipen's GitHub stats](https://github-readme-stats.vercel.app/api?username=slimpotatoboy)](https://github.com/slimpotatoboy/github-readme-stats)
