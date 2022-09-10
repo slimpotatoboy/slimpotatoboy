@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/slimpotatoboy" target="blank"><img src="https://img.shields.io/twitter/follow/slimpotatoboy?logo=twitter&style=for-the-badge" alt="slimpotatoboy" /></a> </p>
 
-- 🔭 I’m currently working on [Dropshipping Nepal](https://dropshippingnepal.com/)
+- 🔭 I’m currently working as Technical Project Coordinator [Dropshipping Nepal](https://dropshippingnepal.com/)
 
 - 🌱 I’m currently learning **Dart as a Backend Service**
 
@@ -29,7 +29,6 @@
 <a href="https://twitter.com/slimpotatoboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="slimpotatoboy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/slimpotatoboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="slimpotatoboy" height="30" width="40" /></a>
 <a href="https://instagram.com/slimpotatoboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="slimpotatoboy" height="30" width="40" /></a>
-<a href="https://hashnode.com/slimpotatoboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="slimpotatoboy" height="30" width="40" /></a>
 <a href="https://medium.com/@slimpotatoboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@slimpotatoboy" height="30" width="40" /></a>
 </p>
 
