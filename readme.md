@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/slimpotatoboy" target="blank"><img src="https://img.shields.io/twitter/follow/slimpotatoboy?logo=twitter&style=for-the-badge" alt="slimpotatoboy" /></a> </p>
 
-- 🔭 I’m currently working as Technical Project Coordinator [Dropshipping Nepal](https://dropshippingnepal.com/)
+- 🔭 I’m currently working as Technical Project Manager [Dropshipping Nepal](https://dropshippingnepal.com/)
 
 - 🌱 I’m currently learning **Dart as a Backend Service**
 
