@@ -11,13 +11,15 @@
  
 - 👯 I’m looking to collaborate on **projects that are awesome**
 
+- 👨‍💻 Check out my first flutter/dart package here: [Slack Logger](https://pub.dev/packages/slack_logger)
+
 - 👨‍💻 All of my projects are available at [https://dipenmaharjan.com.np](https://dipenmaharjan.com.np)
 
 - 📝 I regularly write articles on [https://medium.com/@slimpotatoboy](https://medium.com/@slimpotatoboy)
 
 - 💬 Ask me about **React, NextJs, Flutter**
 
-- 📫 How to reach me **edwinmhzn@gmail.com**
+- 📫 How to reach me? **edwinmhzn@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/slimpotatoboy/](https://www.linkedin.com/in/slimpotatoboy/)
 
