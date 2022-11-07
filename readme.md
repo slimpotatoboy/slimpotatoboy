@@ -7,8 +7,8 @@
 
 - 🔭 I’m currently working as Technical Project Manager [Dropshipping Nepal](https://dropshippingnepal.com/)
 
-- 🌱 I’m currently learning **Dart as a Backend Service**
-
+- 🌱 I’m currently learning **Dart as a Backend Service** && **Open Source Projects**
+ 
 - 👯 I’m looking to collaborate on **projects that are awesome**
 
 - 👨‍💻 All of my projects are available at [https://dipenmaharjan.com.np](https://dipenmaharjan.com.np)
