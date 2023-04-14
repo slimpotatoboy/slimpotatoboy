@@ -12,17 +12,11 @@
 
 - 👨‍💻 Check out my first flutter/dart package here: [Slack Logger](https://pub.dev/packages/slack_logger)
 
-- 👨‍💻 All of my projects are available at [https://dipenmaharjan.com.np](https://dipenmaharjan.com.np)
-
-- 📝 I regularly write articles on [https://medium.com/@slimpotatoboy](https://medium.com/@slimpotatoboy)
-
-- 💬 Ask me about **React, NextJs, Flutter**
+- 👨‍💻 All of my projects and articles are available at [https://dipenmaharjan.com.np](https://dipenmaharjan.com.np)
 
 - 📫 How to reach me? **edwinmhzn@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/slimpotatoboy/](https://www.linkedin.com/in/slimpotatoboy/)
-
-- ⚡ Fun fact **Forget Coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
