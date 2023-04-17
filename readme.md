@@ -12,6 +12,8 @@
 
 - 👨‍💻 Check out my first flutter/dart package here: [Slack Logger](https://pub.dev/packages/slack_logger)
 
+- 👨‍💻 Check out my another flutter/dart package here: [Discord Logger](https://pub.dev/packages/discord_logger)
+
 - 👨‍💻 All of my projects and articles are available at [https://dipenmaharjan.com.np](https://dipenmaharjan.com.np)
 
 - 📫 How to reach me? **edwinmhzn@gmail.com**
