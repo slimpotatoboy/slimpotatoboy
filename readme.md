@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/slimpotatoboy" target="blank"><img src="https://img.shields.io/twitter/follow/slimpotatoboy?logo=twitter&style=for-the-badge" alt="slimpotatoboy" /></a> </p>
 
 
-- 🌱 I’m currently learning **Flutter** && **Backend**
+- 🌱 I’m currently learning **Flutter** && **Backend** && **Appwrite**
  
 - 👯 I’m looking to collaborate on **projects that are awesome**
 
