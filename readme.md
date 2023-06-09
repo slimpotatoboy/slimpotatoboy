@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://twitter.com/slimpotatoboy" target="blank"><img src="https://img.shields.io/twitter/follow/slimpotatoboy?logo=twitter&style=for-the-badge" alt="slimpotatoboy" /></a> </p>
 
 
-- 🌱 I’m currently learning **Flutter** && **Backend** && **Appwrite**
+- 🌱 I’m currently using **Flutter** && **Appwrite**
  
 - 👯 I’m looking to collaborate on **projects that are awesome**
 
@@ -19,8 +19,6 @@
 - 👨‍💻 Check out my another flutter/dart package here: [Discord Logger](https://pub.dev/packages/discord_logger)
 
 - 👨‍💻 All of my projects and articles are available at [https://dipenmaharjan.com.np](https://dipenmaharjan.com.np)
-
-- 📫 How to reach me? **edwinmhzn@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/slimpotatoboy/](https://www.linkedin.com/in/slimpotatoboy/)
 
