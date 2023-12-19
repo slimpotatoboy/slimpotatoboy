@@ -1,4 +1,4 @@
-![github-wrapped](https://github.com/slimpotatoboy/slimpotatoboy/assets/35556320/9b75227b-0d29-4433-af81-e0112f702877)<h1 align="center">Namaste ,🙏 I'm Dipen Maharjan</h1>
+<h1 align="center">Namaste ,🙏 I'm Dipen Maharjan</h1>
 <h3 align="center">A passionate frontend and flutter developer from Nepal</h3>
 
 
