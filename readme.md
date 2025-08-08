@@ -1,40 +1,28 @@
-<h1 align="center">Ola, I'm Edwin</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+# 💫 About Me:
+🌱 I’m currently using React/Next.JS && Laravel && Flutter<br><br>👯 I’m looking to collaborate on projects that are awesome<br><br>📄 Know about my experiences https://www.linkedin.com/in/edwinmaharjan/
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edwinmaharjan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/piedthepiper) 
 
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=slimpotatoboy&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=slimpotatoboy&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=slimpotatoboy&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=slimpotatoboy&label=Profile%20views&color=0e75b6&style=flat" alt="slimpotatoboy" /> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=slimpotatoboy&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
-<p align="left"> <a href="https://twitter.com/slimpotatoboy" target="blank"><img src="https://img.shields.io/twitter/follow/slimpotatoboy?logo=twitter&style=for-the-badge" alt="slimpotatoboy" /></a> </p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=slimpotatoboy&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=slimpotatoboy&icon=1&color=0)](https://visitcount.itsvg.in)
 
-- 🌱 I’m currently using **React/Next.JS** && **Laravel** && **Flutter**
- 
-- 👯 I’m looking to collaborate on **projects that are awesome**
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/slimpotatoboy) 
 
-- 👨‍💻 Check out my first flutter/dart package here: [Slack Logger](https://pub.dev/packages/slack_logger)
-
-- 👨‍💻 Check out my another flutter/dart package here: [Discord Logger](https://pub.dev/packages/discord_logger)
-
-- 👨‍💻 All of my projects and articles are available at [https://dipenmaharjan.com.np](https://dipenmaharjan.com.np)
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/slimpotatoboy/](https://www.linkedin.com/in/slimpotatoboy/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/slimpotatoboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="slimpotatoboy" height="30" width="40" /></a>
-<a href="https://twitter.com/slimpotatoboy" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="slimpotatoboy" /></a>
-<a href="https://linkedin.com/in/slimpotatoboy" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="linkedin-dipen" /></a>
-<a href="https://instagram.com/edwinoslentv" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="edwinoslentv" /></a>
-<a href="https://medium.com/@slimpotatoboy" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="@slimpotatoboy" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
-
-![github-wrapped](https://github.com/slimpotatoboy/slimpotatoboy/assets/35556320/7c00d9a2-90ed-4d78-a246-cedbf3dbd2db)
-
-
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=slimpotatoboy&show_icons=true&locale=en&layout=compact" alt="slimpotatoboy" /></p> -->
-
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
